@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "streamingmedia2",
+			"path": "."
+		},
+		{
+			"name": "Mockups",
+			"path": "../../streamingmedia/assets/Mockups"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "streamingmedia2"
+	}
+}
